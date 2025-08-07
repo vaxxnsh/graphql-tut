@@ -7,7 +7,7 @@ import axios from "axios";
 
 const PORT = 8000;
 
- type Todos =  {
+type Todos =  {
     id: string
     title: string
     completed: boolean
